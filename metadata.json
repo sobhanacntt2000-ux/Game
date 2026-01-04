@@ -1,0 +1,5 @@
+{
+  "name": "Island Quest - Treasure Card Simulator",
+  "description": "An interactive Persian treasure island themed card game with four categories: Health, Regulations, General Knowledge, and Games. Features a parchment-style UI and dynamic question generation.",
+  "requestFramePermissions": []
+}
